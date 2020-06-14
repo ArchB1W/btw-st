@@ -8,6 +8,7 @@ Please make sure that `ttf-hack` `ttf-joypixels` `ttf-font-awesome` and `awesome
 - Gruvbox Dark - Color scheme
 - Scrollback - Adds scrolling support with `Shift+MsWheel` or `Alt+J/K`
 - w3m - Fixes w3m image previews in st
+- Bold is not bright - Changes behavior from making bold text bright to just normal bold text
     
 ##### The bindings are default aside from the ones listed above
 
