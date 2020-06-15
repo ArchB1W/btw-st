@@ -8,10 +8,10 @@
 static char *font = "Hack:pixelsize=16:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"JoyPixels:pixelsize=12:antialias=true:autohint=true", 
-	"FontAwesome:pixelsize=12:antialias=true:autohint=true", 
-	"Font Awesome 5 Free Regular:pixelsize=12:antialias=true:autohint=true", 
-	"Font Awesome 5 Brands Regular:pixelsize=12:antialias=true:autohint=true", 
+	"JoyPixels:pixelsize=12:antialias=true:autohint=true",
+	"FontAwesome:pixelsize=12:antialias=true:autohint=true",
+	"Font Awesome 5 Free Regular:pixelsize=12:antialias=true:autohint=true",
+	"Font Awesome 5 Brands Regular:pixelsize=12:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;

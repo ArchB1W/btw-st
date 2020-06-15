@@ -3,12 +3,11 @@ My build of Simple (Suckless) Terminal
 
 ## Patches
 
-- Font2 - Allows usage of 2+ fonts with st, used here for emoji and Font Awesome support   
-Please make sure that `ttf-hack` `ttf-joypixels` `ttf-font-awesome` and `awesome-terminal-fonts` are installed or change the fonts yourself
+- Font2 - Allows usage of 2 fonts with st, used here for emoji support   
+Please make sure that `ttf-hack` and `ttf-joypixels` are installed or change the fonts in config.h
 - Gruvbox Dark - Color scheme
 - Scrollback - Adds scrolling support with `Shift+MsWheel` or `Alt+J/K`
 - w3m - Fixes w3m image previews in st
-- Bold is not bright - Changes behavior from making bold text bright to just normal bold text
     
 ##### The bindings are default aside from the ones listed above
 
