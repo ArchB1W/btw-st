@@ -1,3 +1,6 @@
+# I'm moving to gitlab!     
+Available here [https://gitlab.com/ArchB1W/]        
+
 # btw-st
 My build of Simple (Suckless) Terminal
 
